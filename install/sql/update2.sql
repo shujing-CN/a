@@ -1,0 +1,1 @@
+INSERT INTO `zan_config` (`k`, `v`) VALUES ('hthz', '1');
